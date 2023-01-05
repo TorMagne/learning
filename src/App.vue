@@ -7,7 +7,7 @@
       ></span>
       <div class="flex items-center gap-2">
         <a href="/" aria-current="page" aria-label="Homepage" class="flex-0 btn btn-ghost px-2"
-          ><div class="font-title text-primary inline-flex text-lg transition-all duration-200 md:text-3xl"><span class="text-accent">Learning</span></div></a
+          ><div class="font-title text-primary inline-flex text-lg transition-all duration-200 md:text-3xl"><span class="text-accent">&lt;Learning /&gt;</span></div></a
         >
       </div>
     </div>
